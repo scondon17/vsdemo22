@@ -9,3 +9,6 @@ ctrl-a # highlight everything
 -- add -- commit -- pull -- push --
 Git is used for version contorl
 
+git checkout #lets you switch which branch youre on
+Create branch # -b
+git merge <file name> merges one branch with another branch
